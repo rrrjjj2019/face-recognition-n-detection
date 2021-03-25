@@ -24,13 +24,13 @@ My laptop, Nvidia RTX 2060.
 No matter there is only one face or multiple faces, it can always achieve high accuracy in real time.
 <br>
 <p align="center">
-<img src="https://github.com/rrrjjj2019/face-recognition-n-detection/gif/master/YU-TING.gif" width="800" style="margin-right:5px; border: 1px solid #ccc;" />
+<img src="https://github.com/rrrjjj2019/face-recognition-n-detection/blob/master/gif/YU-TING.gif" width="800" style="margin-right:5px; border: 1px solid #ccc;" />
 </p>
 <br>
 
 <br>
 <p align="center">
-<img src="https://github.com/rrrjjj2019/dabase-system-final-project/gif/master/2-man.gif" width="800" style="margin-right:5px; border: 1px solid #ccc;" />
+<img src="https://github.com/rrrjjj2019/face-recognition-n-detection/blob/master/gif/2-man.gif" width="800" style="margin-right:5px; border: 1px solid #ccc;" />
 </p>
 <br>
 
