@@ -9,7 +9,7 @@
 Build a real-time face recognition and face detection system using lidar & deep learning algorithm
 
 ## Deep learning model
-* This model is a modified from eCNN, which has less computation complexity and less parameters. By using lidar to get depth information, I only need 6 layer in total to reach high performance.
+* This model is modified from eCNN, which has less computation complexity and less parameters. By using lidar to get depth information, I only need 6 layer in total to reach high performance.
 
 <br>
 <p align="center">
